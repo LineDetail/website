@@ -1,0 +1,12 @@
+On index:
+"Intercropping for biocontrols" - replace with "Research Experience" & image (https://images.unsplash.com/photo-1486025402772-bc179c8dfb0e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+"Foretime" - replace with "Work Experience" & this image (https://images.unsplash.com/uploads/1413349410189e2a95d2e/39982a21?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+"never again"- replace with "Educational Experience" & this image (https://images.unsplash.com/photo-1516655790651-a571e4eca9c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80)
+"departure" - replace with "Extracurriculars" & this image (https://images.unsplash.com/photo-1537181534458-45dcee76ae90?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=564&q=80)
+
+On project:
+Please take this page and copy for every single section ("Research Experience", "Work Experience", "Educational Experience", and "Extracurriculars"), and link each of the 4 pages to their respective image, so that when you click the image, you are taken to a separate webpage that corresponds with the image (such as a page on "Research" for the "Research Experience" image).
+Please make sure there is at least one image on each of these portfolio pages. I can replace the images as needed later.
+
+On all pages:
+Please make sure that the code flows well and works. Otherwise, please advise.
